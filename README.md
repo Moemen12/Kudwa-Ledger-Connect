@@ -48,11 +48,6 @@ Create a `.env` file in `server/` or set environment variables before starting t
 
 ```bash
 GEMINI_API_KEY=your_google_ai_studio_key
-```
-
-Optional model override:
-
-```bash
 GEMINI_MODEL=gemini-2.5-flash
 ```
 
